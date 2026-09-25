@@ -9,4 +9,4 @@ Excel Sheet Link : https://1drv.ms/x/c/6BBA4D598AA71114/IQATSjjoiODiTKUPI1uwMlWi
 
 # Date : 25/09/2026 Work Plan : 
 
-Colab Link : https://colab.research.google.com/drive/119JKXBkMuGB_bux2bNKXE1-s3NV_ECai#scrollTo=-2B1NkUByI_L
+Colab Link : https://colab.research.google.com/drive/119JKXBkMuGB_bux2bNKXE1-s3NV_ECai?usp=sharing
